@@ -58,7 +58,7 @@ export const products = [
   },
   {
     id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
-    image: "images/New/images/products/com5.jpg",
+    image: "images/New/images/products/comp7.jpg",
     name: "HeadPhone",
     rating: {
       stars: 4,
@@ -72,8 +72,50 @@ export const products = [
   },
   {
     id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
-    image: "images/New/images/products/com6.jpg",
+    image: "images/New/images/products/comp6.jpg",
     name: "Refrigerator",
+    rating: {
+      stars: 4,
+      count: 127
+    },
+    priceCents: 2095,
+    keywords: [
+      "sports",
+      "basketballs"
+    ]
+  },
+  {
+    id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
+    image: "images/New/images/products/comp8.jpg",
+    name: "Camera",
+    rating: {
+      stars: 4,
+      count: 127
+    },
+    priceCents: 2095,
+    keywords: [
+      "sports",
+      "basketballs"
+    ]
+  },
+  {
+    id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
+    image: "images/New/images/products/comp9.jpg",
+    name: "Scanner",
+    rating: {
+      stars: 4,
+      count: 127
+    },
+    priceCents: 2095,
+    keywords: [
+      "sports",
+      "basketballs"
+    ]
+  },
+  {
+    id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
+    image: "images/New/images/products/comp10.jpg",
+    name: "Television",
     rating: {
       stars: 4,
       count: 127

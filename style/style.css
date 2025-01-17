@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: Outfit;
 }
+
 body{
 background-color: #dadada;
 }
@@ -145,4 +146,11 @@ nav{
 }
 .header-box{
   margin-top: -20vw
+}
+.header-slider,elec{
+ display: flex;
+ align-items: center;
+ padding-left: 150px;
+ padding-top: 50px;
+ 
 }
