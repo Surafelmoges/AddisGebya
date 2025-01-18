@@ -147,10 +147,14 @@ nav{
 .header-box{
   margin-top: -20vw
 }
-.header-slider,elec{
+.header-slider{
  display: flex;
  align-items: center;
- padding-left: 150px;
+ padding-left: 30px;
+ padding-right: 30px;
  padding-top: 50px;
  
+}
+.elec{
+  margin-left: auto;
 }
