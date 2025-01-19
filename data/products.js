@@ -77,8 +77,8 @@ export const products = [
   },
   {
     id: "8c9c52b5-5a19-4bcb-a5d1-158a74287c53",
-    image: "images/products/6-piece-non-stick-baking-set.webp",
-    name: "6-Piece Nonstick, Carbon Steel Oven Bakeware Baking Set",
+    image: "images/products/comp6.jpg",
+    name: "EPSON,Laser",
     rating: {
       stars: 4.5,
       count: 175
@@ -91,8 +91,8 @@ export const products = [
   },
   {
     id: "dd82ca78-a18b-4e2a-9250-31e67412f98d",
-    image: "images/products/plain-hooded-fleece-sweatshirt-yellow.jpg",
-    name: "Plain Hooded Fleece Sweatshirt",
+    image: "images/products/comp7.jpg",
+    name: "CANON,Sirt",
     rating: {
       stars: 4.5,
       count: 317
@@ -106,8 +106,8 @@ export const products = [
   },
   {
     id: "77919bbe-0e56-475b-adde-4f24dfed3a04",
-    image: "images/products/luxury-tower-set-6-piece.jpg",
-    name: "Luxury Towel Set - Graphite Gray",
+    image: "images/products/comp8.jpg",
+    name: "Dell Optiplex 9020",
     rating: {
       stars: 4.5,
       count: 144
@@ -123,8 +123,8 @@ export const products = [
   },
   {
     id: "3fdfe8d6-9a15-4979-b459-585b0d0545b9",
-    image: "images/products/liquid-laundry-detergent-plain.jpg",
-    name: "Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz",
+    image: "images/products/comp9.jpg",
+    name: "PS5,Playstation",
     rating: {
       stars: 4.5,
       count: 305
@@ -137,8 +137,8 @@ export const products = [
   },
   {
     id: "58b4fc92-e98c-42aa-8c55-b6b79996769a",
-    image: "images/products/knit-athletic-sneakers-gray.jpg",
-    name: "Waterproof Knit Athletic Sneakers - Gray",
+    image: "images/products/comp10.jpg",
+    name: "Micraphone,lllp",
     rating: {
       stars: 4,
       count: 89
