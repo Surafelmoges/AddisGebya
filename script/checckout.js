@@ -1,5 +1,5 @@
-import {cart, removeFromCart} from '../script/cart.js';
-import { products} from '../data/products.js';
+import {cart, removeFromCart} from './cart.js';
+import {products} from '../data/products.js';
 import {formatCurrency} from './utils/money.js';
 let cartSummary ='';
 cart.forEach((cartItem) => {
@@ -10,9 +10,9 @@ cart.forEach((cartItem) => {
       machingProduct = product;
     }
   });
-cartSummary += `
+cartSummary +=`
     <div class="cart-item-container
-     js-cart-item-container-${machingProduct.id}">
+    js-cart-item-container-${machingProduct.id}">
             <div class="delivery-date">
               Delivery date: Tuesday, June 21
             </div>
@@ -89,7 +89,7 @@ cartSummary += `
           </div>
   `;
 });
-document.querySelector('.js-order-summary').
+document.querySelector('.jss-order-summary').
 innerHTML =cartSummary;
 
 document.querySelectorAll('.js-delete-quantity')
