@@ -152,8 +152,8 @@ export const products = [
   },
   {
     id: "5968897c-4d27-4872-89f6-5bcb052746d7",
-    image: "images/products/women-chiffon-beachwear-coverup-black.jpg",
-    name: "Women's Chiffon Beachwear Cover Up - Black",
+    image: "images/products/comp11.jpg",
+    name: "Mouse and Keyboard,lkuot",
     rating: {
       stars: 4.5,
       count: 235
@@ -171,8 +171,8 @@ export const products = [
   },
   {
     id: "aad29d11-ea98-41ee-9285-b916638cac4a",
-    image: "images/products/round-sunglasses-black.jpg",
-    name: "Round Sunglasses",
+    image: "images/products/comp12.jpg",
+    name: "Joystick,mollk12",
     rating: {
       stars: 4.5,
       count: 30
@@ -185,8 +185,8 @@ export const products = [
   },
   {
     id: "04701903-bc79-49c6-bc11-1af7e3651358",
-    image: "images/products/women-beach-sandals.jpg",
-    name: "Women's Two Strap Buckle Sandals - Tan",
+    image: "images/products/comp8.jpg",
+    name: "Dell - Tan",
     rating: {
       stars: 4.5,
       count: 562
@@ -202,8 +202,8 @@ export const products = [
   },
   {
     id: "901eb2ca-386d-432e-82f0-6fb1ee7bf969",
-    image: "images/products/blackout-curtain-set-beige.webp",
-    name: "Blackout Curtains Set 4-Pack - Beige",
+    image: "images/products/comp13.jpg",
+    name: "Lg smart TV - Beige",
     rating: {
       stars: 4.5,
       count: 232
@@ -217,8 +217,8 @@ export const products = [
   },
   {
     id: "82bb68d7-ebc9-476a-989c-c78a40ee5cd9",
-    image: "images/products/men-slim-fit-summer-shorts-gray.jpg",
-    name: "Men's Slim-Fit Summer Shorts",
+    image: "images/products/comp14.jpg",
+    name: "Samsung tablet",
     rating: {
       stars: 4,
       count: 160
@@ -232,8 +232,8 @@ export const products = [
   },
   {
     id: "c2a82c5e-aff4-435f-9975-517cfaba2ece",
-    image: "images/products/electric-glass-and-steel-hot-water-kettle.webp",
-    name: "Electric Glass and Steel Hot Tea Water Kettle - 1.7-Liter",
+    image: "images/products/comp2.jpg",
+    name: "Apple iphone 15 pro max",
     rating: {
       stars: 5,
       count: 846
@@ -247,8 +247,8 @@ export const products = [
   },
   {
     id: "6b07d4e7-f540-454e-8a1e-363f25dbae7d",
-    image: "images/products/facial-tissue-2-ply-18-boxes.jpg",
-    name: "Ultra Soft Tissue 2-Ply - 18 Box",
+    image: "images/products/comp1.jpg",
+    name: "Acer Aspire D257",
     rating: {
       stars: 4,
       count: 99
@@ -264,8 +264,8 @@ export const products = [
   },
   {
     id: "a82c6bac-3067-4e68-a5ba-d827ac0be010",
-    image: "images/products/straw-sunhat.webp",
-    name: "Straw Lifeguard Sun Hat",
+    image: "images/products/comp10.jpg",
+    name: "Micraphone,lllp",
     rating: {
       stars: 4,
       count: 215
@@ -280,8 +280,8 @@ export const products = [
   },
   {
     id: "e4f64a65-1377-42bc-89a5-e572d19252e2",
-    image: "images/products/sky-flower-stud-earrings.webp",
-    name: "Sterling Silver Sky Flower Stud Earrings",
+    image: "images/products/comp4.jpg",
+    name: "AirPods Pro 1.",
     rating: {
       stars: 4.5,
       count: 52
@@ -295,8 +295,8 @@ export const products = [
   },
   {
     id: "b0f17cc5-8b40-4ca5-9142-b61fe3d98c85",
-    image: "images/products/women-stretch-popover-hoodie-black.jpg",
-    name: "Women's Stretch Popover Hoodie",
+    image: "images/products/comp14.jpg",
+    name: "Samsung tablet",
     rating: {
       stars: 4.5,
       count: 2465
