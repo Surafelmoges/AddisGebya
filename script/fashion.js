@@ -42,7 +42,7 @@ fashionPro.forEach((product) =>{
   
             <div class="product-spacer"></div>
   
-            <div class="added-to-cart">
+            <div class="added-to-cart js-add">
               <img src="images/New/images/icons/checkmark.png">
               Added
             </div>
@@ -55,6 +55,10 @@ fashionPro.forEach((product) =>{
   `;
 });
 
-
 document.querySelector('.js-product-grid').
 innerHTML = proHtml;
+document.querySelectorAll('.js-add-cart-btn')
+.forEach((btn) => {
+  btn.addEventListener('click',() =>{
+  });
+});

@@ -1,7 +1,7 @@
 export const fashionPro =[{
     
   id: "bc2847e9-5323-403f-b7cf-57fde044a955A",
-  image: "images/fashion/b.jpg",
+  image: "images/fashion/h.jpg",
   Name: "Men's Fleece Shoes",
   rating: {
     stars: 4.5,
@@ -97,7 +97,7 @@ keywords: [
           },
           {
             id: "15b6fc6f-327a-4ec4-896f-486349e85a3dC",
-            image: "images/fashion/h.jpg",
+            image: "images/fashion/b.jpg",
             Name: "Xoodie",
             rating:{
               stars:4.5,
@@ -126,7 +126,55 @@ keywords: [
                 "apparel"
               ]
             
-              }
+              },
+              {
+                id: "15b6fc6f-327a-4ec4-896f-486349e85a3dC",
+                image: "images/fashion/j.jpg",
+                Name: "Xoodie",
+                rating:{
+                  stars:4.5,
+                  count:6556
+                },
+                priceCents: 740,
+                keywords: [
+                  "socks",
+                  "sports",
+                  "apparel"
+                ]
+              
+                },
+                {
+                  id: "15b6fc6f-327a-4ec4-896f-486349e85a3dC",
+                  image: "images/fashion/k.jpg",
+                  Name: "Xoodie",
+                  rating:{
+                    stars:4.5,
+                    count:6556
+                  },
+                  priceCents: 740,
+                  keywords: [
+                    "socks",
+                    "sports",
+                    "apparel"
+                  ]
+                
+                  },
+                  {
+                    id: "15b6fc6f-327a-4ec4-896f-486349e85a3dC",
+                    image: "images/fashion/d.jpg",
+                    Name: "Xoodie",
+                    rating:{
+                      stars:4.5,
+                      count:6556
+                    },
+                    priceCents: 740,
+                    keywords: [
+                      "socks",
+                      "sports",
+                      "apparel"
+                    ]
+                  
+                    }
     
 ];
 
